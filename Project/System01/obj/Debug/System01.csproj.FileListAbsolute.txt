@@ -1,0 +1,64 @@
+C:\Users\Electronica\source\repos\System01\System01\bin\Debug\System01.exe.config
+C:\Users\Electronica\source\repos\System01\System01\bin\Debug\System01.exe
+C:\Users\Electronica\source\repos\System01\System01\bin\Debug\System01.pdb
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.csproj.AssemblyReference.cache
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.Properties.Resources.resources
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.csproj.GenerateResource.cache
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.csproj.CoreCompileInputs.cache
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.exe
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.pdb
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.StartForm.resources
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.FactoryForm.resources
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.Form3.resources
+C:\Users\Electronica\source\repos\System01\System01\obj\Debug\System01.Form4.resources
+D:\مسابقة إبداع\New folder\System01\System01\bin\Debug\System01.exe.config
+D:\مسابقة إبداع\New folder\System01\System01\bin\Debug\System01.exe
+D:\مسابقة إبداع\New folder\System01\System01\bin\Debug\System01.pdb
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.csproj.AssemblyReference.cache
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.StartForm.resources
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.FactoryForm.resources
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.Form3.resources
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.Form4.resources
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.Properties.Resources.resources
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.csproj.GenerateResource.cache
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.csproj.CoreCompileInputs.cache
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.exe
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.pdb
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.المخزن.resources
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.بيانات_المخزن.resources
+D:\مسابقة إبداع\New folder\System01\System01\obj\Debug\System01.عملية_البيع_للمتاجر.resources
+F:\Ebda3\System02\System01\bin\Debug\System01.exe.config
+F:\Ebda3\System02\System01\bin\Debug\System01.exe
+F:\Ebda3\System02\System01\bin\Debug\System01.pdb
+F:\Ebda3\System02\System01\obj\Debug\System01.csproj.AssemblyReference.cache
+F:\Ebda3\System02\System01\obj\Debug\System01.StartForm.resources
+F:\Ebda3\System02\System01\obj\Debug\System01.المخزن.resources
+F:\Ebda3\System02\System01\obj\Debug\System01.بيانات_المخزن.resources
+F:\Ebda3\System02\System01\obj\Debug\System01.عملية_البيع_للمتاجر.resources
+F:\Ebda3\System02\System01\obj\Debug\System01.FactoryForm.resources
+F:\Ebda3\System02\System01\obj\Debug\System01.Form3.resources
+F:\Ebda3\System02\System01\obj\Debug\System01.Form4.resources
+F:\Ebda3\System02\System01\obj\Debug\System01.Properties.Resources.resources
+F:\Ebda3\System02\System01\obj\Debug\System01.csproj.GenerateResource.cache
+F:\Ebda3\System02\System01\obj\Debug\System01.csproj.CoreCompileInputs.cache
+F:\Ebda3\System02\System01\obj\Debug\System01.exe
+F:\Ebda3\System02\System01\obj\Debug\System01.pdb
+F:\Ebda3\System02\System01\obj\Debug\System01.GovernForm.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\bin\Debug\System01.exe.config
+D:\مسابقة إبداع\System02\System02\System02\System01\bin\Debug\System01.exe
+D:\مسابقة إبداع\System02\System02\System02\System01\bin\Debug\System01.pdb
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.csproj.AssemblyReference.cache
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.GovernForm.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.StartForm.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.المخزن.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.بيانات_المخزن.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.Form1.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.عملية_البيع_للمتاجر.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.FactoryForm.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.Form3.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.Form4.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.Properties.Resources.resources
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.csproj.GenerateResource.cache
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.csproj.CoreCompileInputs.cache
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.exe
+D:\مسابقة إبداع\System02\System02\System02\System01\obj\Debug\System01.pdb

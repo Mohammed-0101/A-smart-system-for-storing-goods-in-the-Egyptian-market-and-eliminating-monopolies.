@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4BC73604-1DB7-449F-8D01-AAD0C3C13E18}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>System01</RootNamespace>
+    <AssemblyName>System01</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DbUtil.cs" />
+    <Compile Include="بيانات المستخدمين.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="بيانات المستخدمين.Designer.cs">
+      <DependentUpon>بيانات المستخدمين.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GovernForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GovernForm.Designer.cs">
+      <DependentUpon>GovernForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign in Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign in Form.Designer.cs">
+      <DependentUpon>Sign in Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="المخزن.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="المخزن.Designer.cs">
+      <DependentUpon>المخزن.cs</DependentUpon>
+    </Compile>
+    <Compile Include="بيانات المخزن.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="بيانات المخزن.Designer.cs">
+      <DependentUpon>بيانات المخزن.cs</DependentUpon>
+    </Compile>
+    <Compile Include="عملية البيع للمتاجر.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="عملية البيع للمتاجر.Designer.cs">
+      <DependentUpon>عملية البيع للمتاجر.cs</DependentUpon>
+    </Compile>
+    <Compile Include="مصنع.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="مصنع.Designer.cs">
+      <DependentUpon>مصنع.cs</DependentUpon>
+    </Compile>
+    <Compile Include="بيانات المصنع.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="بيانات المصنع.Designer.cs">
+      <DependentUpon>بيانات المصنع.cs</DependentUpon>
+    </Compile>
+    <Compile Include="بيانات البيع للمخازن.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="بيانات البيع للمخازن.Designer.cs">
+      <DependentUpon>بيانات البيع للمخازن.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GovernForm.resx">
+      <DependentUpon>GovernForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign in Form.resx">
+      <DependentUpon>Sign in Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="المخزن.resx">
+      <DependentUpon>المخزن.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="بيانات المخزن.resx">
+      <DependentUpon>بيانات المخزن.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="بيانات المستخدمين.resx">
+      <DependentUpon>بيانات المستخدمين.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="عملية البيع للمتاجر.resx">
+      <DependentUpon>عملية البيع للمتاجر.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="مصنع.resx">
+      <DependentUpon>مصنع.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="بيانات المصنع.resx">
+      <DependentUpon>بيانات المصنع.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="بيانات البيع للمخازن.resx">
+      <DependentUpon>بيانات البيع للمخازن.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
