@@ -4,7 +4,7 @@
 
 <h>Tools</h>
 <ul>
-  <il>C#</il>
-  <il>Access Database </il>
-  <il>.NET (Windows Forms) </il>
+  <li>C#</li>
+  <li>Access Database </li>
+  <li>.NET (Windows Forms) </li>
 </ul>
